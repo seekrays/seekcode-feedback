@@ -1,6 +1,7 @@
 # SeekCode
 
 [![Website](https://img.shields.io/badge/Website-seekrays.com-blue)](https://seekrays.com/seekcode/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289da.svg)](https://seekrays.com/seekcode/redirect?t=discord)
 
 ## Download
 
@@ -24,6 +25,12 @@ SeekCode is a modern desktop app for code management. It combines efficient code
 - **Multi-Language Support**: Support for JavaScript, TypeScript, Python, Rust, Go, and many other programming languages
 - **Theme Switching**: Support for light, dark themes and automatic system theme following
 - **Cross-Platform**: Available for macOS and Windows with native performance and system integration
+
+## Community
+
+Join our Discord community to connect with other users, share your experience, and get help:
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289da.svg)](https://seekrays.com/seekcode/redirect?t=discord)
 
 ## Screenshots
 
